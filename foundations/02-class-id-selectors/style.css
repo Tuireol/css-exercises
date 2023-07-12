@@ -1,9 +1,9 @@
-p {
+.odd {
   background-color: #d2691e;
   font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.special-odd {
+.odd.special-odd {
   font-size: 24px;
 }
 
